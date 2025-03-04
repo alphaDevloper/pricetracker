@@ -1,0 +1,2 @@
+BrightData for scraping data from amazon.com
+Cheerio for converting data in html format
